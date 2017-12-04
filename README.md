@@ -25,3 +25,8 @@ Git for windows
 ninja
 =====
 * [GitHub](https://github.com/ninja-build/ninja/releases)
+
+Node.js
+=====
+* [GitHub](https://github.com/nodejs/node)
+* [淘宝镜像](https://npm.taobao.org/mirrors/node/)
