@@ -26,6 +26,11 @@ ninja
 =====
 * [GitHub](https://github.com/ninja-build/ninja/releases)
 
+Node.js
+=====
+* [GitHub](https://github.com/nodejs/node)
+* [淘宝镜像](https://npm.taobao.org/mirrors/node/)
+
 相关项目
 =====
 * [开放静态文件](https://www.staticfile.org/) - 为开源库提供稳定、快速的免费 CDN 服务。 [GitHub](https://github.com/staticfile/static)
