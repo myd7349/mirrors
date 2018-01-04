@@ -25,3 +25,7 @@ Git for windows
 ninja
 =====
 * [GitHub](https://github.com/ninja-build/ninja/releases)
+
+相关项目
+=====
+* [开放静态文件](https://www.staticfile.org/) - 为开源库提供稳定、快速的免费 CDN 服务。 [GitHub](https://github.com/staticfile/static)
