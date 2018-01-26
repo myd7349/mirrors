@@ -22,6 +22,10 @@ Git for windows
 * [淘宝镜像](https://npm.taobao.org/mirrors/git-for-windows/)
 * 相关项目：[git-for-win](https://github.com/waylau/git-for-win)
 
+Go
+=====
+* [Go](https://golang.google.cn/) 相关文章：[Hello 中国，Go官网回归中国](https://zhuanlan.zhihu.com/p/33239903)
+
 ninja
 =====
 * [GitHub](https://github.com/ninja-build/ninja/releases)
