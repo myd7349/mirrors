@@ -36,6 +36,11 @@ Node.js
 * [GitHub](https://github.com/nodejs/node)
 * [淘宝镜像](https://npm.taobao.org/mirrors/node/)
 
+PyPI
+=====
+* [PyPI使用国内源](https://www.cnblogs.com/sunnydou/p/5801760.html)
+* [PyPI 清华镜像站](https://mirrors.tuna.tsinghua.edu.cn/help/pypi/)
+
 相关项目
 =====
 * [开放静态文件](https://www.staticfile.org/) - 为开源库提供稳定、快速的免费 CDN 服务。 [GitHub](https://github.com/staticfile/static)
