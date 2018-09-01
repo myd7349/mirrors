@@ -38,6 +38,7 @@ Node.js
 
 PyPI
 =====
+* [让PIP源使用国内镜像，提升下载速度和安装成功率。](http://www.cnblogs.com/microman/p/6107879.html)
 * [PyPI使用国内源](https://www.cnblogs.com/sunnydou/p/5801760.html)
 * [PyPI 清华镜像站](https://mirrors.tuna.tsinghua.edu.cn/help/pypi/)
 
