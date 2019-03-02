@@ -40,9 +40,9 @@ Node.js
 * [GitHub](https://github.com/nodejs/node)
 * [淘宝镜像](https://npm.taobao.org/mirrors/node/)
 
-Protocol Buffers Documentation
+Protocol Buffer Documentation
 =====
-* [Proocol Buffers Documentation](https://developers.google.cn/protocol-buffers/)
+* [Proocol Buffer Documentation](https://developers.google.cn/protocol-buffers/)
 
 PyPI
 =====
