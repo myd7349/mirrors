@@ -55,6 +55,11 @@ Python
 * [淘宝镜像](https://npm.taobao.org/mirrors/python/)
 * [Python 百度云下载](https://pan.baidu.com/s/1kU5OCOB#list/path=%2Fpub%2Fpython) - [廖雪峰的官方网站——安装 Python](https://www.liaoxuefeng.com/wiki/0014316089557264a6b348958f449949df42a6d3a2e542c000/0014316090478912dab2a3a9e8f4ed49d28854b292f85bb000)
 
+SageMath
+=====
+* [官网](https://www.sagemath.org/)
+* [清华镜像](https://mirrors.tuna.tsinghua.edu.cn/sagemath/)
+
 相关项目
 =====
 * [开放静态文件](https://www.staticfile.org/) - 为开源库提供稳定、快速的免费 CDN 服务。 [GitHub](https://github.com/staticfile/static)
