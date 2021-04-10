@@ -2,6 +2,7 @@
 
 国内开源镜像站列表
 =====
+* :star:[国内开源镜像站点汇总](https://github.com/SUSTech-CRA/chinese-opensource-mirror-site):star:
 * [国内开源镜像站点汇总](https://www.douban.com/group/topic/54764326/)
 * [2016年国内开源镜像站点汇总](https://www.cnblogs.com/jtlgb/p/5702713.html)
 * [清华大学开源镜像站](https://mirrors4.tuna.tsinghua.edu.cn/)
