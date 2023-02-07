@@ -64,3 +64,4 @@ SageMath
 相关项目
 =====
 * [开放静态文件](https://www.staticfile.org/) - 为开源库提供稳定、快速的免费 CDN 服务。 [GitHub](https://github.com/staticfile/static)
+* [Thanks-Mirror](https://github.com/eryajf/Thanks-Mirror)
