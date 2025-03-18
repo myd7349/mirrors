@@ -12,6 +12,7 @@
 * [东软信息学院镜像站](http://mirrors.neusoft.edu.cn/)
 * [科大开源软件镜像站](http://mirrors.ustc.edu.cn/)
 * [浙江大学开源镜像站](http://mirrors.zju.edu.cn/)
+* [中国科学技术大学](https://mirrors.ustc.edu.cn/)
 
 Anaconda
 =====
