@@ -16,6 +16,7 @@
 Anaconda
 =====
 * [清华镜像](https://mirrors4.tuna.tsinghua.edu.cn/anaconda/archive/)
+* [中国科学技术大学](https://mirrors.ustc.edu.cn/anaconda/archive/)
 
 Git for windows
 =====
